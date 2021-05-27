@@ -8,7 +8,9 @@ Bu script obs-studio'yu linux üzerinden yazılım yöntemi ile
 Nasıl İndirilir ve kullanılır?
 
 $ git clone https://github.com/Equxx/obs-starter
+
 $ sudo chmod +x obs-starter.sh
+
 $ sudo ./obs-starter.sh
 
 Kod ise çok basit :) Yazılım bilgim noksan olduğundan 
